@@ -1,3 +1,3 @@
 # useless-facts
 
-## An API/Website to show random facts about random things every day
+An API/Website to show random facts about random things every day
